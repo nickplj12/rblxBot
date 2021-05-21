@@ -1,0 +1,6 @@
+var prefix = '!'
+var commands = './help.txt'
+
+newCmd("help", commands)
+newCmd("say", chat.playerShout)
+newCmd("follow", pos.playerXY)
