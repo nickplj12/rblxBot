@@ -1,0 +1,1 @@
+Help - list of commands - Say - self-explanatory - Follow - follows local player | Version 0.1.4-Alpha | Updates install automatically. | The prefix is !
